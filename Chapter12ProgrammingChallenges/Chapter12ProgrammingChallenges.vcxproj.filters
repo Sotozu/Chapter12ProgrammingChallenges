@@ -41,5 +41,8 @@
     <Text Include="decryption.txt">
       <Filter>Source Files</Filter>
     </Text>
+    <Text Include="file15.txt">
+      <Filter>Source Files</Filter>
+    </Text>
   </ItemGroup>
 </Project>

@@ -143,6 +143,7 @@
   <ItemGroup>
     <Text Include="decryption.txt" />
     <Text Include="encryptionfile.txt" />
+    <Text Include="file15.txt" />
     <Text Include="fileinput7.txt" />
     <Text Include="fileoutput7.txt" />
     <Text Include="infile8.txt" />
