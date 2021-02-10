@@ -138,6 +138,21 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="01 Movie Data.cpp" />
+    <ClCompile Include="02 Movie Profit.cpp" />
+    <ClCompile Include="03 Corporate Sales Data.cpp" />
+    <ClCompile Include="04 Weather Statistics.cpp" />
+    <ClCompile Include="05 Weather Statistics Modification.cpp" />
+    <ClCompile Include="06 Soccer Scores.cpp" />
+    <ClCompile Include="07 Customer Accounts.cpp" />
+    <ClCompile Include="08 Search Function for Customer Accounts Program.cpp" />
+    <ClCompile Include="09 Speakers Bureau.cpp" />
+    <ClCompile Include="10 Search Function for the Speakers Bureau Program.cpp" />
+    <ClCompile Include="11 Monthly Budget.cpp" />
+    <ClCompile Include="12 Course Grade.cpp" />
+    <ClCompile Include="13 Drink Machine Simulator.cpp" />
+    <ClCompile Include="14 Inventory Bins.cpp" />
+    <ClCompile Include="15 Multipurpose Payroll.cpp" />
     <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <ItemGroup>
