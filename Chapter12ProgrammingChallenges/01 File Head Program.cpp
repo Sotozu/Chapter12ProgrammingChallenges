@@ -1,7 +1,7 @@
 #include <iostream>
 #include <fstream>
 #include <string>
-
+// The file name for this program is myfile1.txt
 using namespace std;
 int main() {
 
